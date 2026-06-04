@@ -4,6 +4,8 @@ A new Flutter project.
 
 <img width="1919" height="957" alt="Screenshot 2026-06-04 102410" src="https://github.com/user-attachments/assets/b5315545-6ca8-4daf-8dfd-5a93354059fb" />
 
+# text_widget
+<img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/0545d356-3ce9-4e8b-a2d3-60088a8870d7" />
 
 ## Getting Started
 
